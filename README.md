@@ -58,7 +58,7 @@ Learned how LangSmith studio is used to track workflow steps.
 Changed simple.py to add an extra node and changed its probability to 33% from 50% due to an extra node. The new node had the state of "bored".                                           
 Asked agent graph to multiply 10 and 2 thus performing a multiplication.                                                                                                                            
 
-
+Code files: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/tree/main/Module1/Studio
 
 
 
