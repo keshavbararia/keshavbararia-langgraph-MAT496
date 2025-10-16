@@ -7,9 +7,9 @@ https://academy.langchain.com/courses/intro-to-langgraph
 
 **Learnings:**
 
-Learned that LangGraph addresses the limitation of language models due to lack of access to tools, external context like documentation.                 
-The video explained how basic language models are limited in their capabilities and it introduced the concept of control flow.                          
-Learned about chain and agent architecture.                                                                                                           
+Learned that LangGraph addresses the limitation of language models due to lack of access to tools, external context like documentation.              
+The video explained how basic language models are limited in their capabilities and it introduced the concept of control flow.                       
+Learned about chain and agent architecture.                                                                                                          
 
 ( No changes and code files since the video was entirely theoretical. )
 
@@ -56,8 +56,7 @@ Learned how LangSmith studio is used to track workflow steps.
 **Changes:**
 
 Changed simple.py to add an extra node and changed its probability to 33% from 50% due to an extra node. The new node had the state of "bored". 
-Asked agent graph to multiply 10 and 2 thus performing a multiplication.                                                                                                                            
-
+Asked agent graph to multiply 10 and 2 thus performing a multiplication.                                                                           
 Code files: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/tree/main/Module1/Studio
 
 ### MODULE 1 - VIDEO 4
@@ -85,8 +84,7 @@ Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/b
 **Learnings:**
 
 Learned about routing how it chooses between tool call or direct response based on input.                                                          
-Used ToolNode to simply pass a list of our tools to initialize it and tools_condition to build a conditional edge and ToolMessage to respond.         
-
+Used ToolNode to simply pass a list of our tools to initialize it and tools_condition to build a conditional edge and ToolMessage to respond.        
 
 **Changes:**
 
