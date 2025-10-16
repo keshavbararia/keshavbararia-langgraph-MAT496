@@ -112,3 +112,23 @@ Performed: (((5+10)*2)/5) - 1, which gave the correct output of 5.
 Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module1/agent.ipynb
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/agent.ipynb
+
+### MODULE 1 - VIDEO 6
+
+<img width="2877" height="1506" alt="image" src="https://github.com/user-attachments/assets/9fc5f5d8-7155-45f2-a4c3-a6de1b0b4c94" />
+
+(arithmetic operations using agents in LangSmith studio.)
+
+**Learnings:**
+
+Used MemorySaver to store states for agent to remember.                                                                                             
+Learned that graph states are stored in memory using a thread_id.
+
+**Changes:**
+
+Added a subtraction tool to perform more arithmetic operations.                                                                                    
+Subtracted 2 in the end to showcase that the new tool was working as well as that previous outputs could be accessed thus showing the effectiveness of MemorySaver.
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module1/agent-memory.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/agent-memory.ipynb
