@@ -50,15 +50,27 @@ Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/b
 
 **Learnings:**
 
-Learned to download studio and use it to visualize and test graphs.                                                                                                                               
+Learned to download studio and use it to visualize and test graphs.                                                                           
 Learned how LangSmith studio is used to track workflow steps. 
 
 **Changes:**
 
-Changed simple.py to add an extra node and changed its probability to 33% from 50% due to an extra node. The new node had the state of "bored".                                           
+Changed simple.py to add an extra node and changed its probability to 33% from 50% due to an extra node. The new node had the state of "bored". 
 Asked agent graph to multiply 10 and 2 thus performing a multiplication.                                                                                                                            
 
 Code files: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/tree/main/Module1/Studio
+
+### MODULE 1 - VIDEO 4
+
+**Learnings:**
+
+I learned how to a simple chain in LangGraph works by taking chat messages as the state.                                                    
+I also learned how to bind tools to a chat model so it can make function calls automatically.
+
+**Changes:**
+
+Changed the messages to know about the best place to see Indian architecture instead of orcas in USA.                                         
+Changed the multiplication tool to perform addition instead.
 
 
 
