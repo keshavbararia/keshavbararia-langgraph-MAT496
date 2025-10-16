@@ -76,3 +76,23 @@ Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blo
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/chain.ipynb
 
+### MODULE 1 - VIDEO 5
+
+<img width="1676" height="1531" alt="image" src="https://github.com/user-attachments/assets/9b2587fc-572b-4cc7-8fac-4356c1e1cd80" />
+
+(Routing workflow visualised on LangSmith.)
+
+**Learnings:**
+
+Learned about routing how it chooses between tool call or direct response based on input.                                                          
+Used ToolNode to simply pass a list of our tools to initialize it and tools_condition to build a conditional edge and ToolMessage to respond.         
+
+
+**Changes:**
+
+Changed the multiplication tool to addition as can be seen in the edited file.                                                                   
+Instead of perform 2*2 multiplication, I performed an addition of 2+3 which correctly gave us 5 as output. 
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module1/router.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/router.ipynb
