@@ -96,3 +96,19 @@ Instead of perform 2*2 multiplication, I performed an addition of 2+3 which corr
 Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module1/router.ipynb
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/router.ipynb
+
+### MODULE 1 - VIDEO 6
+
+**Learnings:**
+
+Learned how to build an agent using LangGraph and LangChain that can perform reasoning and use tools.                                            
+Used the agent to call arithmetic tools like add, multiply, divide, or subtract.
+
+**Changes:**
+Added subtraction tool as well for more arithmetic operations.                                                                          
+Changed numerical values to test different inputs.                                                                                               
+Performed: (((5+10)*2)/5) - 1, which gave the correct output of 5.
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module1/agent.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/agent.ipynb
