@@ -72,5 +72,7 @@ I also learned how to bind tools to a chat model so it can make function calls a
 Changed the messages to know about the best place to see Indian architecture instead of orcas in USA.                                         
 Changed the multiplication tool to perform addition instead.
 
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module1/chain.ipynb
 
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/chain.ipynb
 
