@@ -130,3 +130,24 @@ Subtracted 2 in the end to showcase that the new tool was working as well as tha
 Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module1/agent-memory.ipynb
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/agent-memory.ipynb
+
+
+## MODULE 2
+
+### MODULE 2 - VIDEO 1
+
+**Learnings:**
+
+I learned how to define and manage a state schema in LangGraph.                                                                                                                                      
+Learned how to define a state schema in LangGraph using TypedDict, dataclass, or Pydantic.                                                                                                           
+Learned how Pydantic checks data at runtime because of which only correct values are allowed.
+
+**Changes:**
+
+Changed the graph by adding an extra node with "angry" state.                                                                                                                                    
+Changed the probability to 1/3 for each node from the original 1/2.
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module2/Studio/state-schema.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/state-schema.ipynb
+
