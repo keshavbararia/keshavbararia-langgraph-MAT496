@@ -1,5 +1,5 @@
 # keshavbararia-langgraph-MAT496
-https://academy.langchain.com/courses/intro-to-langgraph
+course: https://academy.langchain.com/courses/intro-to-langgraph
 
 ## MODULE 1
 
