@@ -1,5 +1,5 @@
 # keshavbararia-langgraph-MAT496
-https://academy.langchain.com/courses/intro-to-langgraph
+course: https://academy.langchain.com/courses/intro-to-langgraph
 
 ## MODULE 1
 
@@ -151,3 +151,20 @@ Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blo
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/state-schema.ipynb
 
+### MODULE 2 - VIDEO 1
+
+**Learnings:**
+
+Learned that reducers helps in resolving overwriting of the state.                                                                                 
+Learned how operater.add reducer helps in concatenation of lists.                                                                           
+Learned how custom reducers are used to handle none input.                                                                                 
+Learned about add_messages reducer and how it helps with rewriting and removal.
+
+**Changes:**
+
+Instead of returning state['foo'] + 1 returned state['foo'] - 1, therefore got {'foo': 0} as output for {'foo': 1} input.                         
+Changed the human message to ask about "dolphins" instead of "whales" and changed name from "Lance" to "Keshav".
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module2/Studio/state-reducers.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/state-reducers.ipynb
