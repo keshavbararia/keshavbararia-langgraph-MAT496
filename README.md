@@ -151,7 +151,7 @@ Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blo
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/state-schema.ipynb
 
-### MODULE 2 - VIDEO 1
+### MODULE 2 - VIDEO 2
 
 **Learnings:**
 
@@ -168,3 +168,20 @@ Changed the human message to ask about "dolphins" instead of "whales" and change
 Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module2/Studio/state-reducers.ipynb
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/state-reducers.ipynb
+
+### MODULE 2 - VIDEO 3
+
+**Learnings:**
+
+Learned how private states are useful for intermediate working logic of the graph.                                                            
+Learned how input and output schemas constrain input and output by performing filtering on what keys are permitted on the input and output of the graph.                                                                                                                      
+
+**Changes:**
+
+Changed state['baz'] + 1 to state['baz'] + 2 and got the output {'foo': 4} instead of {'foo': 3}.                                                  
+Change name to "Keshav" from "Lance" and got {'answer': 'bye Keshav'} as output.
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module2/Studio/multiple-schemas.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/multiple-schemas.ipynb
+
