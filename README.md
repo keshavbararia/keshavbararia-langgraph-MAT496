@@ -229,3 +229,25 @@ Instead of "Nick Bosa", I mentioned "Yashasvi Jaiswal" and one of his IPL record
 Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module2/Studio/chatbot-summarization.ipynb
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/chatbot-summarization.ipynb
+
+### MODULE 2 - VIDEO 6
+
+<img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/0ef51541-37e9-49ec-86a2-6ecb6360c5f7" />
+
+( Using LangGraph dev visualised the graph. )
+
+**Learnings:**
+
+Learned how to build a chatbot with summarization and external memory using LangGraph and a sqlite checkpointer.                                                                            
+Chatbot stored conversation in a local database allowing recovery even after restarts.                                                                            
+Used LangGraph studio to visualise and run the workflow.                                                                                                                                 
+
+**Changes:**
+
+Changed the human message by saying I like Rajasthan Royals instead of 49ers.                                                                                                          
+Asked who was the captain of that team in LangGraph studio.                                                                                                                         
+Changed the name from "Lance" to "Keshav".
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module2/Studio/chatbot-external-memory.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/chatbot-external-memory.ipynb
