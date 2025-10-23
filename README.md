@@ -185,3 +185,26 @@ Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blo
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/multiple-schemas.ipynb
 
+### MODULE 2 - VIDEO 4
+
+<img width="975" height="555" alt="image" src="https://github.com/user-attachments/assets/fe6138e2-efe8-4627-9072-41891ed744d5" />
+
+( LangGraph trace in LangSmith. )
+
+**Learnings:**
+
+Learned how to manage long chatbot messages in LangGraph using filtering and trimming.                                                            
+Learned how to remove old messages using filter.                                                                                                    
+Learned how using trimming we can limit number of tokens.                                                                                          
+Used LangSmith tracing to see model invocation.
+
+**Changes:**
+
+Changed the human message to know about land mammals other than elephants instead of ocean mammals.                                          
+Changed human name to "Keshav" instead of "Lance".                                                                                    
+Wrote messages to ask more about tigers and where they are found.                                                                                    
+Used gpt 3.5 turbo in addition to gpt 4o.
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module2/Studio/trim-filter-messages.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/trim-filter-messages.ipynb
