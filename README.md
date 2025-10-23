@@ -234,7 +234,7 @@ Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/b
 
 <img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/0ef51541-37e9-49ec-86a2-6ecb6360c5f7" />
 
-( Using LangGraph dev visualised the graph. )
+( Using LangGraph Studio visualised the graph. )
 
 **Learnings:**
 
