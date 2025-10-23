@@ -208,3 +208,24 @@ Used gpt 3.5 turbo in addition to gpt 4o.
 Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module2/Studio/trim-filter-messages.ipynb
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/trim-filter-messages.ipynb
+
+### MODULE 2 - VIDEO 5
+
+<img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/653a3356-3754-4f1f-8844-5e2eb0eb2ace" />
+
+( LangGraph trace showing the messages and summary. )
+
+**Learnings:**
+
+Learned how to generate running summary of the conversation without changing the context and also avoiding the use of filters and trimming.
+Learned to give the chatbot memory using a MemorySaver and thread ids.
+
+**Changes:**
+
+Changed name to "Keshav" instead of "Lance".                                                                                    
+Instead of saying "i like the 49ers" i mentioned Rajasthan Royals my favorite ipl team.                                           
+Instead of "Nick Bosa", I mentioned "Yashasvi Jaiswal" and one of his IPL records in the human message.                                          
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module2/Studio/chatbot-summarization.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/chatbot-summarization.ipynb
