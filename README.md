@@ -271,4 +271,26 @@ Learned how to stream chat model tokens live using .astream_events.
 Made a function format_tool_calls to format list of tool calls into readable string.                                                          
 Changed name from "Lance" to "Keshav".                                                                                  
 Changed the question "Tell me about the 49ers NFL team" to "Tell me about the Rajasthan Royals IPL team"                                 
-Instead of multiplying 2 and 3, multiplied 10 and 5.                                                                                  
+Instead of multiplying 2 and 3, multiplied 10 and 5. 
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module3/streaming-interruption.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/streaming-interruption.ipynb
+
+### MODULE 3 - VIDEO 1
+<img width="975" height="525" alt="image" src="https://github.com/user-attachments/assets/1352930b-404f-43eb-bc5f-0cdd8a7b8939" />
+( Multiplication of 2 numbers using tools in LangGraph Studio. )
+
+**Learnings:**
+
+Learned how to use LangGraph breakpoints to stop the agent at specific steps.                                                                      
+learned that using interrupt_before pauses the graph before a specific node executes.
+
+**Changes:**
+
+Added a stubtract function to this list of math functions.                                                                                     
+Instead of multiplying 2 and 3, multiplied 5 and 10.                                                                                                
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module3/breakpoints.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/breakpoints.ipynb
