@@ -244,10 +244,31 @@ Used LangGraph studio to visualise and run the workflow.
 
 **Changes:**
 
-Changed the human message by saying I like Rajasthan Royals instead of 49ers.                                                                                                          
-Asked who was the captain of that team in LangGraph studio.                                                                                                                         
+Changed the human message by saying I like Rajasthan Royals instead of 49ers.                                                                        
+Asked who was the captain of that team in LangGraph studio.                                                                                          
 Changed the name from "Lance" to "Keshav".
 
 Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module2/Studio/chatbot-external-memory.ipynb
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/chatbot-external-memory.ipynb
+
+## MODULE 3
+
+### MODULE 3 - VIDEO 1
+
+<img width="2869" height="1499" alt="image" src="https://github.com/user-attachments/assets/25ca1e2c-6b94-48a8-9f09-6eadec011b34" />
+
+( Agent code with mathematical operations as tools. )
+
+**Learnings:**
+
+Explored different streaming modes like updates, values, and messages to monitor state changes.                                                   
+Learned that .stream and .astream methods are used for synchronous and asynchronous streaming.                                                       
+Learned how to stream chat model tokens live using .astream_events.                                                                                 
+
+**Changes:**
+
+Made a function format_tool_calls to format list of tool calls into readable string.                                                          
+Changed name from "Lance" to "Keshav".                                                                                  
+Changed the question "Tell me about the 49ers NFL team" to "Tell me about the Rajasthan Royals IPL team"                                 
+Instead of multiplying 2 and 3, multiplied 10 and 5.                                                                                  
