@@ -316,3 +316,22 @@ Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blo
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/edit-state-human-feedback.ipynb
 
+### MODULE 3 - VIDEO 4
+
+<img width="2877" height="1480" alt="image" src="https://github.com/user-attachments/assets/5479ef63-2e94-4a7f-a460-cef0dd0ea419" />
+( Demonstration of interruption in LangGraph studio. )
+
+**Learnings:**
+
+Learned how to use dynamic breakpoints in LangGraph causing the graph to pause automatically during execution using NodeInterrupt                    
+Learned how to inspect, resume, and update graph state after interruption.
+Visualised the workflow on LangGraph studio.                                                                              
+
+**Changes:**
+
+Changed "hello world" to "hello everybody" making sure that it is still greater than 5 characters as can be seen in the edited file as well as the photo attached.                                                                                                   
+Changed "hi!" to "hello" which is still not greater than 5 characters.                                                                
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module3/dynamic-breakpoints.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/dynamic-breakpoints.ipynb
