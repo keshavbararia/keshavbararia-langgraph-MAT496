@@ -294,3 +294,25 @@ Instead of multiplying 2 and 3, multiplied 5 and 10.
 Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module3/breakpoints.ipynb
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/breakpoints.ipynb
+
+### MODULE 3 - VIDEO 3
+
+<img width="975" height="516" alt="image" src="https://github.com/user-attachments/assets/a7c3eece-5956-45a5-a357-efd986fe27a9" />
+( Changing the message from “multiply 10 and 5” to “multiply 10 and 6” in LangGraoh studio using fork )
+
+**Learnings:**
+
+Learned how to edit and update a LangGraph’s state when it is running, helping us to modify messages and inputs.                                                                            
+Used update_state to change the conversation or add feedback.                                                                                                    
+Learned that the human_feedback allows us to give input when the graph is paused.
+
+**Changes:**
+
+Added a subtract function to this list of math functions.                                                                                                    
+Instead of multiplying 2 and 3, multiplied 5 and 10.                                                                                                    
+Further updated the conversation to multiply 10 and 6 instead of 10 and 5.
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module3/edit-state-human-feedback.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/edit-state-human-feedback.ipynb
+
