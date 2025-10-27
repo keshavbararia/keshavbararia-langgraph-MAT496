@@ -335,3 +335,26 @@ Changed "hi!" to "hello" which is still not greater than 5 characters.
 Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module3/dynamic-breakpoints.ipynb
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/dynamic-breakpoints.ipynb
+
+### MODULE 3 - VIDEO 5
+
+<img width="2879" height="1502" alt="image" src="https://github.com/user-attachments/assets/0f182b2f-d111-4a9a-86be-76a793e97096" />       
+( Original message. )
+
+<img width="2867" height="1516" alt="image" src="https://github.com/user-attachments/assets/a9944834-ce22-4ebc-99a7-70330bc8becd" />
+( Changed calculation by forking. )
+
+**Learnings:**
+
+Learned how LangGraph enables debugging by viewing, re-playing, and even forking from past states.                                                 
+Used get_state and get_state_history explored the agent’s progress over time.                                                                   
+
+**Changes:**
+
+Created a subtract function as can be seen in the edited file.                                                                        
+Instead of multiplying numbers, I subtracted them.                                                                                                
+Showed add function instead of multiplication in LangGraph studio.                                                                                   
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module3/time-travel.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/time-travel.ipynb
