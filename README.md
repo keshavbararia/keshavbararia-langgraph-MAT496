@@ -359,3 +359,27 @@ Showed add function instead of multiplication in LangGraph studio.
 Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module3/time-travel.ipynb
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/time-travel.ipynb
+
+
+## MODULE 4
+
+### MODULE 4 - VIDEO 1
+
+<img width="2879" height="1508" alt="image" src="https://github.com/user-attachments/assets/dfd1fcbc-4ff9-478a-a2b8-aaa6cfe5c442" />
+( AI generated answers by taking web search and wikipedia both as sources. )
+
+<img width="2876" height="1530" alt="image" src="https://github.com/user-attachments/assets/743edb3d-4573-4ab5-8d22-3371ceadaf14" />
+( Modified question traced on LangSmith. )
+
+**Learnings:**
+
+Learned how parallel node execution works in LangGraph using fan-out and fan-in structures.                                                          
+Learned about multi source workflow taking both web search and wikipedia as sources and then generating an output.
+
+**Changes:**
+
+Changed the question "How were Nvidia's Q2 2025 earnings" to "How were Apple's Q2 2025 earnings" and observed the working in LangSmith Studio as can be seen in the photo attached above.
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module4/parallelization.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/parallelization.ipynb
