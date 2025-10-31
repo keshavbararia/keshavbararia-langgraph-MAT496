@@ -392,7 +392,7 @@ Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/b
 **Learnings:**
 
 Learned that sub graphs help in breaking my workflow in small parts that run parallely.
-understood how failure analysis and question summarization run parallely while sharing  inputs and producing different outputs.
+Understood how failure analysis and question summarization run parallely while sharing  inputs and producing different outputs.
 
 **Changes:**
 
@@ -401,3 +401,21 @@ Changed Questions focused on usage and working of LangGraph instead of ChatOllam
 Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module4/sub-graph.ipynb
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/sub-graph.ipynb
+
+### MODULE 4 - VIDEO 3
+
+<img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/5f145931-afea-4e77-baa0-5917c25740e7" />
+( Map reduce in LangSmith studio to see workflow to generate jokes about colours. )
+
+**Learnings:**
+
+Learned how to use the map-reduce pattern in LangGraph for parallel and aggregated processing.                                                
+Understood how to define custom states and nodes for each step and link them using conditional edges.
+
+**Changes:**
+
+Changed the topic to "colours" instead of "animals" and got jokes related to it.
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module4/map-reduce.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/map-reduce.ipynb
