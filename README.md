@@ -383,3 +383,21 @@ Changed the question "How were Nvidia's Q2 2025 earnings" to "How were Apple's Q
 Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module4/parallelization.ipynb
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/parallelization.ipynb
+
+### MODULE 4 - VIDEO 2
+
+<img width="975" height="515" alt="image" src="https://github.com/user-attachments/assets/f35799e3-348a-4e15-8d92-020aa94b928c" />
+( Trace of dummy questions related to LangGraph. )
+
+**Learnings:**
+
+Learned that sub graphs help in breaking my workflow in small parts that run parallely.
+understood how failure analysis and question summarization run parallely while sharing  inputs and producing different outputs.
+
+**Changes:**
+
+Changed Questions focused on usage and working of LangGraph instead of ChatOllama and Chroma vector store.
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module4/sub-graph.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/sub-graph.ipynb
