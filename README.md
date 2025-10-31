@@ -419,3 +419,25 @@ Changed the topic to "colours" instead of "animals" and got jokes related to it.
 Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module4/map-reduce.ipynb
 
 Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/map-reduce.ipynb
+
+
+### MODULE 4 - VIDEO 4
+
+<img width="2879" height="1498" alt="image" src="https://github.com/user-attachments/assets/9c65eff6-4a64-4fe8-a2ff-f9205298ea44" />
+( Finalize report trace after all interviews are simulated and all insights are generated. )
+
+<img width="2879" height="1514" alt="image" src="https://github.com/user-attachments/assets/aa4e673a-1473-4681-be52-4ea730e5c2e7" />
+( Research assistant workflow in LangSmith Studio. )
+**Learnings:**
+
+Learned how to build a multi agent research workflow to automate topic analysis, research, and report generation.                              
+Learned how agent gathers information using web and Wikipedia searches and conducted simulated interviews, and then made a final report with all the information.                                                                                                                                         
+Observed the workflow in LangSmith Studio further helping with conceptual clarity.
+
+**Changes:**
+
+Changed the topic from "The benefits of adopting LangGraph as an agent framework" to "The benefits of using OpenAI models" which created experts in this field and the final report was on this topic.
+
+Edited file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Module4/research-assistant.ipynb
+
+Original file: https://github.com/keshavbararia/keshavbararia-langgraph-MAT496/blob/main/Sourcecode/research-assistant.ipynb
